@@ -1,0 +1,11 @@
+D:\Visual Studio Repositorios\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Visual Studio Repositorios\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Visual Studio Repositorios\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Visual Studio Repositorios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Visual Studio Repositorios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repositorios\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Visual Studio Repositorios\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Visual Studio Repositorios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Visual Studio Repositorios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repositorios\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Visual Studio Repositorios\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
